@@ -18,7 +18,10 @@ https://trello.com/b/BhqwBW3Y/proyecto
 
 Integrantes:
 Emanuel Nuñez, estudiante de ing. informatica, me gusta mas el backend porque me gusta manejar informacion.
+
 Matias Aguirre, estudiante de arte multimediales, me gusta mas el frontend porque soy creativo.
+
 Jhonatan Fulguera, futuro analista de sistemas, me gusta el diseño por lo cual el frontend es mi fuerte.
+
 Natalia Moreno, estudiante de programacion, me gusta el manejo de datos y el diseño por igual.
 
